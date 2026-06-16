@@ -11,3 +11,4 @@ nema17 stepper motor cycloid gear example project
 ## connections
 ![how it looks like](https://github.com/toborobot/nema17_tb6600_arduino_cycloid_gear/blob/main/img/connection.JPG)
 
+## gallery
